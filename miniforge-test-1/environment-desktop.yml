@@ -1,0 +1,7 @@
+name: titan2022
+channels:
+  - https://repo.prefix.dev/titan-forge
+  - conda-forge
+dependencies:
+  - python
+  - opencv-titan
